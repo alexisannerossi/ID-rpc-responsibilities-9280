@@ -21,7 +21,7 @@ venue:
 #  mail: rswg@rfc-editor.org
 #  arch: https://datatracker.ietf.org/edwg/rswg/
   github: "ID-rpc-responsibilities-9280"
-  latest: "https://alexisannerossi.github.io/ID-rpc-responsibilities-9280/draft-rossi-rpcresponsibilities.html"
+  latest: "[https://github.com/alexisannerossi/ID-rpc-responsibilities-9280/blob/main/draft-rossi-rpcresponsibilities.md]"
 
 author:
  -
